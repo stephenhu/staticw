@@ -1,0 +1,2 @@
+# staticw
+static website deployment
